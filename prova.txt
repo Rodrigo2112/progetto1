@@ -4,7 +4,9 @@
 <head>
   <meta charset="utf-8">
 
-  <title>sono su branch master</title>
+
+  <title>sono su branch mergiato</title>
+
   <meta name="description" content="The HTML5 Herald">
   <meta name="author" content="SitePoint">
 
@@ -13,6 +15,7 @@
 </head>
 
 <body>
+<p>ciao a tutti</p>
   <script src="js/scripts.js"></script>
 <p>fine pagina</p>
 </body>
